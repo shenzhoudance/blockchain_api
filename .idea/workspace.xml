@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41be09f0-86b9-4a71-87c0-2ff24a981cf4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/config/default.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/crawler/rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/crawler/ws.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/demo_crawler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/demo_sdk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/framework/httpClient.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/sdk/hbsdk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBApiHandler/SYYHuobiConstant.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBApiHandler/SYYHuobiNetHandler.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBApiHandler/SYYHuobiNetHandler.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBApiHandler/SYYHuobiUrlInfo.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBApiHandler/SYYHuobiUrlInfo.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo.xcodeproj/project.xcworkspace/xcuserdata/siyunyou.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo.xcodeproj/xcuserdata/siyunyou.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo.xcodeproj/xcuserdata/siyunyou.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/ViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/ViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/HBRestAPIDemo/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFHTTPSessionManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFHTTPSessionManager.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFSecurityPolicy.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFSecurityPolicy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFURLRequestSerialization.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFURLRequestSerialization.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFURLResponseSerialization.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFURLResponseSerialization.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFURLSessionManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/AFNetworking/AFURLSessionManager.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Library/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/AF二次封装/NetWorkDefine.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/AF二次封装/NetWorkManager.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/AF二次封装/NetWorkManager.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/AF二次封装/NetWorkSession.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/AF二次封装/NetWorkSession.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/SYYEncryptionUtils.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/SYYEncryptionUtils.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/SYYUtils.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-ObjectiveC-Demo/Utils/SYYUtils.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Python2.7-demo/HuobiService.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Python2.7-demo/HuobiUtil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Python2.7-demo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Python3-demo/HuobiServices.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Python3-demo/Utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Python3-demo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/huobi-qt-rest.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/huobi-qt-rest.pro.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/include/QtAutoTrade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/qtautotrade.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/common/appconfig.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/common/appconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/common/cacheutils.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/common/cacheutils.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/abstractmarketapi.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/abstractmarketapi.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/appmarketaccount.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/appmarketaccount.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/asset.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/asset.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/baseentity.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/baseentity.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/bitorder.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/bitorder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/depth.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/depth.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/kline.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/kline.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/marketapifactory.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/marketapifactory.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/marketparam.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/marketparam.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/ticker.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/core/ticker.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/market/huobi/huobproapi.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/market/huobi/huobproapi.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/qtautotrade.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/qtautotrade.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/utils/httpresponse.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/utils/httpresponse.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/utils/httputils.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/utils/httputils.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/utils/timerouthelper.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/qtautotrade/utils/timerouthelper.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/src/src.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/auto.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_httputils/test_httputils.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_httputils/tst_test_httputilstest.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_huobi_api/test_huobi_api.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_huobi_api/tst_testhuobiapi.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_shareddata/mydata.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_shareddata/mydata.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_shareddata/mydata_p.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_shareddata/test_shareddata.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/auto/test_shareddata/tst_testshareddata.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/tests/tests.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/include/QtPromise" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/package/features/qtpromise.prf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/qpm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/qtpromise.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/qtpromise.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromise.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromise.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromise_p.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromiseerror.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromisefuture.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromiseglobal.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qpromisehelpers.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qtpromise.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/qtpromise/qtpromise.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/src/src.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/auto.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/benchmark/benchmark.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/benchmark/tst_benchmark.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/future/future.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/future/tst_future.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/helpers/helpers.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/helpers/tst_helpers.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/qpromise/qpromise.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/qpromise/tst_qpromise.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/requirements/requirements.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/requirements/tst_requirements.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/tests.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/thread/thread.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/thread/tst_thread.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/tests.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Ruby-demo/huobi_pro.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huobi/REST-API-demos" afterPath="$PROJECT_DIR$/huobi/REST-API-demos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/tests/test_MarketAnalysis.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/tests/test_MarketAnalysis.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/blockchain$huobiws_py.coverage" NAME="huobiws.py Coverage Results" MODIFIED="1518091992353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi" />
+    <SUITE FILE_PATH="coverage/blockchain$okcoin.coverage" NAME="okcoin Coverage Results" MODIFIED="1517214428363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okcoin1/" />
+    <SUITE FILE_PATH="coverage/blockchain$sqlite3.coverage" NAME="sqlite Coverage Results" MODIFIED="1517234421351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blockchain$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1517664614183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blockchain$poloniex_py.coverage" NAME="poloniex.py Coverage Results" MODIFIED="1516620422157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poloniex" />
+    <SUITE FILE_PATH="coverage/blockchain$getprice.coverage" NAME="getprice Coverage Results" MODIFIED="1517041350293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blockchain$huobi.coverage" NAME="huobi Coverage Results" MODIFIED="1518092975045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi" />
+    <SUITE FILE_PATH="coverage/blockchain$sqlite3__1_.coverage" NAME="sqlite3 (1) Coverage Results" MODIFIED="1517218863983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blockchain$hitbtc.coverage" NAME="hitbtc Coverage Results" MODIFIED="1516620432277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hitbtc" />
+    <SUITE FILE_PATH="coverage/blockchain$huobiws_demo.coverage" NAME="huobiws_demo Coverage Results" MODIFIED="1518093407202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blockchain$binance_py.coverage" NAME="binance.py Coverage Results" MODIFIED="1516776173271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="@vanxv.vicp.net" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HuobiServices.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huobi/HuobiServices.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="527" column="0" lean-forward="true" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="huobiws.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huobi/huobiws.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="e#40#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/huobi/huobiws_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+              <folding>
+                <element signature="e#40#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>price</find>
+      <find>'</find>
+      <find>eos</find>
+      <find>symbolTrue</find>
+      <find>eoseth</find>
+      <find>zecusdt</find>
+      <find>ltcbch</find>
+      <find>actbch</find>
+      <find>bcdbch</find>
+      <find>xrpeth</find>
+      <find>print</find>
+      <find>reader</find>
+      <find>yeeeth</find>
+      <find>http_get_request</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/huobi</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/huobi1.csv" />
+        <option value="$PROJECT_DIR$/okcoin1/rest/python/okcoin.py" />
+        <option value="$PROJECT_DIR$/getprice.py" />
+        <option value="$PROJECT_DIR$/okcoin1/okcoin.py" />
+        <option value="$PROJECT_DIR$/huobi.csv" />
+        <option value="$PROJECT_DIR$/huobi/HuobiServices.py" />
+        <option value="$PROJECT_DIR$/okcoin1/sqlite3.py" />
+        <option value="$PROJECT_DIR$/sqlite3.py" />
+        <option value="$PROJECT_DIR$/example.db" />
+        <option value="$PROJECT_DIR$/sqlite.py" />
+        <option value="dbschema:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/test" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/087d7677-1497-4ea3-a573-fce43cbf58a0/console.sql" />
+        <option value="$PROJECT_DIR$/huobi/huobiws.py" />
+        <option value="$PROJECT_DIR$/huobi/Utils.py" />
+        <option value="$PROJECT_DIR$/huobi/huobiws_demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockchain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockchain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockchain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/okcoin1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.huobiws_demo">
+    <configuration default="false" name="getprice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getprice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="huobiws_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huobi/huobiws_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huobi/Utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="null" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="blockchain" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="binance.py" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="huobi" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huobi" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huobi/HuobiServices.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="okcoin" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/okcoin1/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/okcoin1/okcoin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="huobiws.py" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huobi" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blockchain" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huobi/huobiws.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Python.binance.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.huobi" />
+      <item index="2" class="java.lang.String" itemvalue="Python.okcoin" />
+      <item index="3" class="java.lang.String" itemvalue="Python.huobiws.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getprice" />
+      <item index="5" class="java.lang.String" itemvalue="Python.sqlite" />
+      <item index="6" class="java.lang.String" itemvalue="Python.huobiws_demo" />
+      <item index="7" class="java.lang.String" itemvalue="Python.Utils" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.huobiws_demo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Utils" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sqlite" />
+        <item index="3" class="java.lang.String" itemvalue="Python.getprice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41be09f0-86b9-4a71-87c0-2ff24a981cf4" name="Default" comment="" />
+      <created>1516537741584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516537741584</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5226171" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28630137" sideWeight="0.4806139" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22778675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34383562" sideWeight="0.47738287" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huobi/huobiws.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huobi/huobiws.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huobi/huobiws.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huobi/huobiws.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huobi/huobiws.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="97" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/huobi/HuobiServices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" column="120" lean-forward="false" selection-start-line="496" selection-start-column="120" selection-end-line="496" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okcoin1/okcoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" column="25" lean-forward="true" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
+          <folding>
+            <element signature="e#80#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hitbtc/hitbtc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/HuobiServices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6885">
+          <caret line="459" column="0" lean-forward="false" selection-start-line="459" selection-start-column="0" selection-end-line="459" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hitbtc/hitbtc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/HuobiServices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6840">
+          <caret line="459" column="0" lean-forward="true" selection-start-line="459" selection-start-column="0" selection-end-line="459" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hitbtc/hitbtc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okcoin1/ReadMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="717" column="13" lean-forward="false" selection-start-line="717" selection-start-column="13" selection-end-line="717" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okcoin1/OkcoinSpotAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okcoin1/OkcoinFutureAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/sqlite3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbschema:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/test" />
+    <entry file="file://$PROJECT_DIR$/okcoin1/okcoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="e#80#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbview:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/information_schema.USER_PRIVILEGES" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/blockchain.marketPriceLog" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/blockchain.marketPrice" />
+    <entry file="file://$PROJECT_DIR$/example.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="657" lean-forward="false" selection-start-line="1" selection-start-column="657" selection-end-line="1" selection-end-column="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/087d7677-1497-4ea3-a573-fce43cbf58a0/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_users" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_users_external" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_migrations" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_cards" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_account_terms" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_activity" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_activity_mq" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_addressbookchanges" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_share" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_accounts" />
+    <entry file="dbDummy://dbtable:/aba419cf/087d7677-1497-4ea3-a573-fce43cbf58a0/owncloud.oc_storages" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/multiprocessing/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="344" column="0" lean-forward="false" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1017" column="0" lean-forward="false" selection-start-line="1017" selection-start-column="0" selection-end-line="1017" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8940">
+          <caret line="607" column="0" lean-forward="false" selection-start-line="607" selection-start-column="0" selection-end-line="607" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <marker date="1517290509484" expanded="true" signature="210:274" ph="insert into stocks... " />
+            <marker date="1517290509484" expanded="true" signature="403:443" ph="SELECT * FRO... stocks" />
+            <marker date="1517290509484" expanded="true" signature="489:524" ph="SELECT * FRO... stocks" />
+            <marker date="1517290509484" expanded="true" signature="782:818" ph="INSERT INTO stocks... " />
+            <marker date="1517290509484" expanded="true" signature="843:863" ph="SELECT * FRO... stocks" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getprice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cc8867f7/087d7677-1497-4ea3-a573-fce43cbf58a0/blockchain.marketPrice">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/Utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="110" column="23" lean-forward="false" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/gzip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="530" column="0" lean-forward="false" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/huobiws.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#40#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/HuobiServices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="527" column="0" lean-forward="true" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/huobiws_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="e#40#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
