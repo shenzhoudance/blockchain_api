@@ -48,7 +48,7 @@ def huobiws(symbol):
                 else:
                     number += 1
                     #print(symbol,result)
-                    print(datetime.datetime.now(),symbol,result)
+                    #print(datetime.datetime.now(),symbol,result)
             except:
                 print(datetime.datetime.now(),symbol,number)
                 time.sleep(1)
