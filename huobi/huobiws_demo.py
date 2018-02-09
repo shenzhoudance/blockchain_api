@@ -39,7 +39,7 @@ def huobiws(symbol):
             number = 1
         except:
             continue
-        while number < 4:
+        while number ==2:
             try:
                 compressData = ws.recv()
                 result=gzip.decompress(compressData).decode('utf-8')
@@ -47,7 +47,7 @@ def huobiws(symbol):
                     pass
                 else:
                     number += 1
-                    #print(symbol,result)
+                    print(symbol,result)
                     #print(datetime.datetime.now(),symbol,result)
             except:
                 print(datetime.datetime.now(),symbol,number)
