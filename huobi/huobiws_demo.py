@@ -31,11 +31,14 @@ Number = 1
 
 def huobiws(symbol):
     while(3):
-        time.sleep(3)
-        ws = create_connection("wss://api.huobipro.com/ws")
-        tradeStr='{"sub": "market.'+ symbol +'.depth.step1", "id": "id10"}'
-        ws.send(tradeStr)
-        number = 1
+        time.sleep(2)
+        try:
+            ws = create_connection("wss://api.huobipro.com/ws")
+            tradeStr='{"sub": "market.'+ symbol +'.depth.step1", "id": "id10"}'
+            ws.send(tradeStr)
+            number = 1
+        except:
+            continue
         while number < 4:
             try:
                 compressData = ws.recv()
