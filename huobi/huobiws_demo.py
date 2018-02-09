@@ -47,7 +47,8 @@ def huobiws(symbol):
                     pass
                 else:
                     number += 1
-                    print(symbol,result)
+                    #print(symbol,result)
+                    print(symbol)
                     #print(datetime.datetime.now(),symbol,result)
             except:
                 print(datetime.datetime.now(),symbol,number)

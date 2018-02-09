@@ -167,7 +167,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Ruby-demo/huobi_pro.rb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huobi/REST-API-demos" afterPath="$PROJECT_DIR$/huobi/REST-API-demos" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huobi/huobiws_demo.py" afterPath="$PROJECT_DIR$/huobi/huobiws_demo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" />
@@ -241,8 +240,8 @@
       <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/huobi/huobiws_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            <state relative-caret-position="332">
+              <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
               <folding>
                 <element signature="e#40#79#0" expanded="true" />
               </folding>
@@ -1194,8 +1193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/huobi/huobiws_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="332">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
           <folding>
             <element signature="e#40#79#0" expanded="true" />
           </folding>
