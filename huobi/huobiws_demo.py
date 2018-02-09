@@ -31,7 +31,7 @@ Number = 1
 
 def huobiws(symbol):
     while(3):
-        time.sleep(2)
+        time.sleep(3)
         ws = create_connection("wss://api.huobipro.com/ws")
         tradeStr='{"sub": "market.'+ symbol +'.depth.step1", "id": "id10"}'
         ws.send(tradeStr)
