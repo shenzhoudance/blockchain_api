@@ -6,6 +6,10 @@ import gzip
 import time
 import datetime
 from multiprocessing import Pool
+from SaveMysql import updateMysql
+import pymysql.cursors
+import json
+
 Number = 1
 #if __name__ == '__main__':
     # 订阅 KLine 数据
@@ -39,21 +43,31 @@ def huobiws(symbol):
             number = 1
         except:
             continue
-        while number ==2:
+        while number <3:
             try:
+                time.sleep(1)
                 compressData = ws.recv()
                 result=gzip.decompress(compressData).decode('utf-8')
                 if result[:7] == '{"ping"':
                     pass
+                elif result[:7] == '{"id":"':
+                    pass
                 else:
                     number += 1
                     #print(symbol,result)
-                    print(symbol)
-                    #print(datetime.datetime.now(),symbol,result)
+
+                    # Now removing { and }
+
+                    result = json.loads(result)
+                    result = result['tick']
+                    updateMysql(symbol,'huobi',str((result['asks'][-1][0] + result['bids'][0][0]) * 0.5),str(result['bids'][0][0]),str(result['bids'][0][1]),str(result['asks'][0][0]),str(result['asks'][0][1]),str(result))
+                    #updateMysql(symbol,'huobi',str(1),str(2),str(3),str(4),str(1),str(result))
             except:
                 print(datetime.datetime.now(),symbol,number)
                 time.sleep(1)
                 continue
+
+
 
 with Pool(150) as pool:
     symbol = ['omgusdt', 'linkbtc', 'naseth', 'eoseth', 'swftcbtc', 'zecusdt', 'dashbtc', 'paybtc', 'evxbtc', 'mdseth', 'tntbtc', 'qasheth', 'smteth', 'bchbtc', 'iosteth', 'tnbbtc', 'gnxeth', 'thetabtc', 'sntusdt', 'datbtc', 'eosusdt', 'chateth', 'manabtc', 'xrpbtc', 'ltcusdt', 'qtumusdt', 'letbtc', 'sntbtc', 'bcdbtc', 'cvcusdt', 'elfeth', 'gnteth', 'utkbtc', 'sbtcbtc', 'neousdt', 'mcobtc', 'osteth', 'rcnbtc', 'bt2btc', 'qunbtc', 'topceth', 'hsreth', 'salteth', 'aidoceth', 'waxbtc', 'cvceth', 'dtaeth', 'btcusdt', 'powreth', 'adxeth', 'gaseth', 'saltbtc', 'neobtc', 'btmbtc', 'ekoeth', 'bateth', 'ekobtc', 'appcbtc', 'cmtbtc', 'veneth', 'qtumeth', 'reqbtc', 'bifibtc', 'btmeth', 'icxbtc', 'zecbtc', 'actbtc', 'dgdeth', 'dateth', 'etcusdt', 'ostbtc', 'iostusdt', 'mcoeth', 'storjbtc', 'hsrbtc', 'quneth', 'elfbtc', 'cmteth', 'venbtc', 'gntbtc', 'dbcbtc', 'storjusdt', 'waxeth', 'powrbtc', 'dtabtc', 'nasbtc', 'tnbeth', 'swftceth', 'ltcbtc', 'eosbtc', 'linketh', 'iostbtc', 'yeebtc', 'rdnbtc', 'gnxbtc', 'leteth', 'evxeth', 'astbtc', 'acteth', 'bchusdt', 'dashusdt', 'icxeth', 'bcxbtc', 'propyeth', 'dgdbtc', 'xrpusdt', 'zrxbtc', 'thetaeth', 'ethbtc', 'dbceth', 'reqeth', 'wicceth', 'smtbtc', 'rpxbtc', 'tnteth', 'ethusdt', 'itcbtc', 'omgbtc', 'payeth', 'venusdt', 'mdsbtc', 'adxbtc', 'etcbtc', 'aidocbtc', 'kncbtc', 'hsrusdt', 'qtumbtc', 'cvcbtc', 'qspbtc', 'qspeth', 'btgbtc', 'batbtc', 'qashbtc', 'itceth', 'xembtc', 'manaeth', 'gasbtc', 'chatbtc', 'bt1btc', 'omgeth', 'utketh', 'rcneth', 'topcbtc', 'mtlbtc', 'gntusdt', 'appceth', 'propybtc', 'wiccbtc', 'rdneth', 'yeeeth']
