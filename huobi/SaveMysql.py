@@ -2,7 +2,7 @@ import pymysql.cursors
 import datetime
 # connect to the database
 def updateMysql(symbol,platform,priceAverage,buyprice,bNum,sellPrice,sNum,allInfo):
-    connection = pymysql.connect(host='vanxv.vicp.net',
+    connection = pymysql.connect(host='localhost',
                                  user='root',
                                  password='1121mysql',
                                  db='blockchain',
