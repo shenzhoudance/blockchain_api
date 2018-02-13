@@ -165,18 +165,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/thread/tst_thread.cpp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/tests.pro" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Ruby-demo/huobi_pro.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/HttpMD5Util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/OkcoinFutureAPI.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/OkcoinSpotAPI.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/ReadMe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/SaveMysql.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/okcoin.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huobi/REST-API-demos" afterPath="$PROJECT_DIR$/huobi/REST-API-demos" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/SaveMysql.py" afterPath="$PROJECT_DIR$/done/SaveMysql.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/binance.py" afterPath="$PROJECT_DIR$/done/binance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/huobiws_demo.py" afterPath="$PROJECT_DIR$/done/huobiws_demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/okcoin1/okcoin.py" afterPath="$PROJECT_DIR$/done/okcoin1/okcoin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" />
@@ -278,11 +270,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="okcoin.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="okcoin.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="e#80#116#0" expanded="true" />
               </folding>
@@ -310,10 +302,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="599">
               <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
               <folding>
                 <element signature="e#40#79#0" expanded="true" />
@@ -432,9 +424,9 @@
         <option value="$PROJECT_DIR$/okcoin1/okcoin.py" />
         <option value="$PROJECT_DIR$/done/SaveMysql.py" />
         <option value="$PROJECT_DIR$/done/okcoin1/SaveMysql.py" />
-        <option value="$PROJECT_DIR$/done/okcoin1/okcoin.py" />
         <option value="$PROJECT_DIR$/done/binance.py" />
         <option value="$PROJECT_DIR$/done/huobiws_demo.py" />
+        <option value="$PROJECT_DIR$/done/okcoin1/okcoin.py" />
       </list>
     </option>
   </component>
@@ -499,6 +491,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="done" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockchain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockchain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="done" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="okcoin1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1389,16 +1399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-          <folding>
-            <element signature="e#80#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/done/binance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -1411,10 +1411,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="599">
           <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
           <folding>
             <element signature="e#40#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#80#116#0" expanded="true" />
           </folding>
         </state>
       </provider>

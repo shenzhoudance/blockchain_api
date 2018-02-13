@@ -25,10 +25,10 @@ okcoinSpot = OKCoinSpot(okcoinRESTURL,apikey,secretkey)
 #期货API
 okcoinFuture = OKCoinFuture(okcoinRESTURL,apikey,secretkey)
 
-print (u' 现货行情 ')
+#print (u' 现货行情 ')
 #print (okcoinSpot.ticker('btc_usd'))
 
-print (u' 现货深度 ')
+#print (u' 现货深度 ')
 #print (okcoinSpot.depth('btc_usd'))
 eos_eth = okcoinSpot.depth('eos_eth')
 print('asks')
