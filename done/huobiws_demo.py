@@ -45,7 +45,7 @@ def huobiws(symbol):
             continue
         while number <3:
             try:
-                time.sleep(1)
+                time.sleep(1.5)
                 compressData = ws.recv()
                 result=gzip.decompress(compressData).decode('utf-8')
                 if result[:7] == '{"ping"':

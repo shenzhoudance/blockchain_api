@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41be09f0-86b9-4a71-87c0-2ff24a981cf4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/binance.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/config/default.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Nodejs-demo/crawler/rest.js" afterPath="" />
@@ -166,13 +165,18 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/auto/thread/tst_thread.cpp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-QTC++-demo/vendor/qtpromise/tests/tests.pro" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/REST-API-demos/REST-Ruby-demo/huobi_pro.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/SaveMysql.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huobi/huobiws_demo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/HttpMD5Util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/OkcoinFutureAPI.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/OkcoinSpotAPI.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/ReadMe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/SaveMysql.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/okcoin1/okcoin.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huobi/REST-API-demos" afterPath="$PROJECT_DIR$/huobi/REST-API-demos" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hitbtc/hitbtc.py" afterPath="$PROJECT_DIR$/hitbtc/hitbtc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/okcoin1/okcoin.py" afterPath="$PROJECT_DIR$/okcoin1/okcoin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/SaveMysql.py" afterPath="$PROJECT_DIR$/done/SaveMysql.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/binance.py" afterPath="$PROJECT_DIR$/done/binance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/huobiws_demo.py" afterPath="$PROJECT_DIR$/done/huobiws_demo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" />
@@ -274,11 +278,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="okcoin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/okcoin1/okcoin.py">
+      <file leaf-file-name="okcoin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+            <state relative-caret-position="271">
+              <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
               <folding>
                 <element signature="e#80#116#0" expanded="true" />
               </folding>
@@ -289,28 +293,28 @@
       <file leaf-file-name="SaveMysql.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/SaveMysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-122">
-              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="205">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
-                <marker date="1518384466498" expanded="true" signature="647:690" ph="UPDATE block... " />
-                <marker date="1518384466498" expanded="true" signature="647:691" ph="UPDATE block... " />
-                <marker date="1518384466498" expanded="true" signature="647:930" ph="UPDATE block... " />
-                <marker date="1518384466498" expanded="true" signature="647:932" ph="UPDATE block... " />
-                <marker date="1518384466498" expanded="true" signature="1836:2074" ph="UPDATE block... " />
-                <marker date="1518384466498" expanded="true" signature="2099:2130" ph="INSERT INTO marketPrice... " />
-                <marker date="1518384466498" expanded="true" signature="2099:2143" ph="INSERT INTO marketPrice... " />
-                <marker date="1518384466498" expanded="true" signature="2099:2199" ph="INSERT INTO marketPrice... " />
+                <marker date="1518536589762" expanded="true" signature="642:685" ph="UPDATE block... " />
+                <marker date="1518536589762" expanded="true" signature="642:686" ph="UPDATE block... " />
+                <marker date="1518536589762" expanded="true" signature="642:925" ph="UPDATE block... " />
+                <marker date="1518536589762" expanded="true" signature="642:927" ph="UPDATE block... " />
+                <marker date="1518536589762" expanded="true" signature="1812:2050" ph="UPDATE block... " />
+                <marker date="1518536589762" expanded="true" signature="2075:2106" ph="INSERT INTO marketPrice... " />
+                <marker date="1518536589762" expanded="true" signature="2075:2119" ph="INSERT INTO marketPrice... " />
+                <marker date="1518536589762" expanded="true" signature="2075:2175" ph="INSERT INTO marketPrice... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="158">
+              <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
               <folding>
                 <element signature="e#40#79#0" expanded="true" />
               </folding>
@@ -336,9 +340,24 @@
       <file leaf-file-name="binance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/binance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="320" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="64">
+              <caret line="313" column="27" lean-forward="false" selection-start-line="313" selection-start-column="21" selection-end-line="313" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveMysql.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/done/okcoin1/SaveMysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <marker date="1518536603695" expanded="true" signature="642:927" ph="UPDATE block... " />
+                <marker date="1518536603695" expanded="true" signature="2075:2175" ph="INSERT INTO marketPrice... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -408,12 +427,14 @@
         <option value="$PROJECT_DIR$/huobi/huobiws_demo.py" />
         <option value="$PROJECT_DIR$/SaveMysql.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/087d7677-1497-4ea3-a573-fce43cbf58a0/console.sql" />
-        <option value="$PROJECT_DIR$/done/binance.py" />
-        <option value="$PROJECT_DIR$/done/SaveMysql.py" />
         <option value="$PROJECT_DIR$/hitbtc/hitbtc.py" />
         <option value="$PROJECT_DIR$/okcoin1/SaveMysql.py" />
-        <option value="$PROJECT_DIR$/done/huobiws_demo.py" />
         <option value="$PROJECT_DIR$/okcoin1/okcoin.py" />
+        <option value="$PROJECT_DIR$/done/SaveMysql.py" />
+        <option value="$PROJECT_DIR$/done/okcoin1/SaveMysql.py" />
+        <option value="$PROJECT_DIR$/done/okcoin1/okcoin.py" />
+        <option value="$PROJECT_DIR$/done/binance.py" />
+        <option value="$PROJECT_DIR$/done/huobiws_demo.py" />
       </list>
     </option>
   </component>
@@ -477,66 +498,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="poloniex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poloniex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poloniexlendingbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="okcoin1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huobi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockchain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="done" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -555,6 +516,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/done" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/okcoin1" />
     </key>
@@ -998,10 +960,10 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34383562" sideWeight="0.52584815" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28630137" sideWeight="0.47576737" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28630137" sideWeight="0.47576737" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23505655" sideWeight="0.4926931" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18739903" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1090,34 +1052,14 @@
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
-          <line>77</line>
+          <url>file://$PROJECT_DIR$/done/okcoin1/okcoin.py</url>
+          <line>78</line>
           <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/okcoin1/okcoin.py</url>
-          <line>78</line>
+          <url>file://$PROJECT_DIR$/done/okcoin1/okcoin.py</url>
+          <line>79</line>
           <option name="timeStamp" value="202" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/okcoin1/SaveMysql.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="214" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/okcoin1/SaveMysql.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="215" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/okcoin1/SaveMysql.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="216" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/okcoin1/SaveMysql.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="217" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1308,7 +1250,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/okcoin1/OkcoinSpotAPI.py">
+    <entry file="file://$PROJECT_DIR$/done/okcoin1/OkcoinSpotAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
@@ -1316,7 +1258,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/okcoin1/OkcoinFutureAPI.py">
+    <entry file="file://$PROJECT_DIR$/done/okcoin1/OkcoinFutureAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1360,7 +1302,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/okcoin1/HttpMD5Util.py">
+    <entry file="file://$PROJECT_DIR$/done/okcoin1/HttpMD5Util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1373,17 +1315,6 @@
         <state relative-caret-position="421">
           <caret line="110" column="23" lean-forward="false" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/okcoin1/SaveMysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <marker date="1518533144995" expanded="true" signature="647:932" ph="UPDATE block... " />
-            <marker date="1518533144995" expanded="true" signature="2115:2215" ph="INSERT INTO marketPrice... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1404,24 +1335,6 @@
             <marker date="1518256959692" expanded="true" signature="2255:2287" ph="INSERT INTO marketPrice... " />
             <marker date="1518256959692" expanded="true" signature="2255:2349" ph="INSERT INTO marketPrice... " />
             <marker date="1518256959692" expanded="true" signature="2373:2468" ph="INSERT INTO marketPrice... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/done/SaveMysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <marker date="1518384466498" expanded="true" signature="647:690" ph="UPDATE block... " />
-            <marker date="1518384466498" expanded="true" signature="647:691" ph="UPDATE block... " />
-            <marker date="1518384466498" expanded="true" signature="647:930" ph="UPDATE block... " />
-            <marker date="1518384466498" expanded="true" signature="647:932" ph="UPDATE block... " />
-            <marker date="1518384466498" expanded="true" signature="1836:2074" ph="UPDATE block... " />
-            <marker date="1518384466498" expanded="true" signature="2099:2130" ph="INSERT INTO marketPrice... " />
-            <marker date="1518384466498" expanded="true" signature="2099:2143" ph="INSERT INTO marketPrice... " />
-            <marker date="1518384466498" expanded="true" signature="2099:2199" ph="INSERT INTO marketPrice... " />
           </folding>
         </state>
       </provider>
@@ -1447,30 +1360,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/done/okcoin1/SaveMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1518536603695" expanded="true" signature="642:927" ph="UPDATE block... " />
+            <marker date="1518536603695" expanded="true" signature="2075:2175" ph="INSERT INTO marketPrice... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/SaveMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <marker date="1518536589762" expanded="true" signature="642:685" ph="UPDATE block... " />
+            <marker date="1518536589762" expanded="true" signature="642:686" ph="UPDATE block... " />
+            <marker date="1518536589762" expanded="true" signature="642:925" ph="UPDATE block... " />
+            <marker date="1518536589762" expanded="true" signature="642:927" ph="UPDATE block... " />
+            <marker date="1518536589762" expanded="true" signature="1812:2050" ph="UPDATE block... " />
+            <marker date="1518536589762" expanded="true" signature="2075:2106" ph="INSERT INTO marketPrice... " />
+            <marker date="1518536589762" expanded="true" signature="2075:2119" ph="INSERT INTO marketPrice... " />
+            <marker date="1518536589762" expanded="true" signature="2075:2175" ph="INSERT INTO marketPrice... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="e#80#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/done/binance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="320" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="64">
+          <caret line="313" column="27" lean-forward="false" selection-start-line="313" selection-start-column="21" selection-end-line="313" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="158">
+          <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
           <folding>
             <element signature="e#40#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/okcoin1/okcoin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
-          <folding>
-            <element signature="e#80#116#0" expanded="true" />
           </folding>
         </state>
       </provider>

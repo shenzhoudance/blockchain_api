@@ -2,7 +2,7 @@ import pymysql.cursors
 import datetime
 # connect to the database
 def updateMysql(symbol,platform,priceAverage,buyprice='NULL',bNum='NULL',sellPrice='NULL',sNum='NULL',allInfo='NULL'):
-    connection = pymysql.connect(host='vanxv.vicp.net',
+    connection = pymysql.connect(host='localhost',
                                  user='root',
                                  password='1121mysql',
                                  db='blockchain',
@@ -15,7 +15,6 @@ def updateMysql(symbol,platform,priceAverage,buyprice='NULL',bNum='NULL',sellPri
         sql = 'UPDATE blockchain.marketPrice SET datetime="'+ str(datetime.datetime.now()) +'", priceAverage='+ priceAverage +' , buyPrice='+ buyprice +' , bNum='+ bNum +' , sellPrice='+ sellPrice +' , sNum='+ sNum +' , allInfo="'+ allInfo +'" WHERE symbol="'+ symbol +'" AND platform="'+ platform+'";'
         # sqlInsert1 = "INSERT INTO marketPrice VALUES('system','huobi','2018-01-20 18:42:11',12,12,11,11,11,'values');"
         # sqlInsert = "INSERT INTO marketPrice VALUES('" + symbol + "','huobi','2018-01-20 18:42:11',12,12,11,11,11,'values');"
-        print(sql)
         cursor.execute(sql)
         connection.commit()
         connection.close()
