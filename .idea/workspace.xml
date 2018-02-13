@@ -168,7 +168,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huobi/REST-API-demos" afterPath="$PROJECT_DIR$/huobi/REST-API-demos" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/done/okcoin1/okcoin.py" afterPath="$PROJECT_DIR$/done/okcoin1/okcoin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/modules/MarketAnalysis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/AccountStats.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" afterPath="$PROJECT_DIR$/poloniex/poloniexlendingbot/plugins/Charts.py" />
@@ -270,7 +269,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="okcoin.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="okcoin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -302,14 +301,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="huobiws_demo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-              <folding>
-                <element signature="e#40#79#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -425,8 +422,8 @@
         <option value="$PROJECT_DIR$/done/SaveMysql.py" />
         <option value="$PROJECT_DIR$/done/okcoin1/SaveMysql.py" />
         <option value="$PROJECT_DIR$/done/binance.py" />
-        <option value="$PROJECT_DIR$/done/huobiws_demo.py" />
         <option value="$PROJECT_DIR$/done/okcoin1/okcoin.py" />
+        <option value="$PROJECT_DIR$/done/huobiws_demo.py" />
       </list>
     </option>
   </component>
@@ -1409,16 +1406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-          <folding>
-            <element signature="e#40#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/done/okcoin1/okcoin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1426,6 +1413,14 @@
           <folding>
             <element signature="e#80#116#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/huobiws_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -6,7 +6,7 @@ import gzip
 import time
 import datetime
 from multiprocessing import Pool
-from .SaveMysql import updateMysql
+from SaveMysql import updateMysql
 import pymysql.cursors
 import json
 
