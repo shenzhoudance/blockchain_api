@@ -6,6 +6,7 @@ import sys
 import websocket
 import gzip
 import time
+from SaveMysql import updateMysql,insertMysql
 
 
 class Binance():
@@ -304,9 +305,13 @@ binance = Binance(
     key='RbJWBqQaAM1WYrdqby1o9pSzSG6yK9oblOq6v2h7EhnRh58QZDRyQahqKygwwMhd', 
     secret = 'Iy14FG3VdsKeqGiatRGlkbnwWzEyy84lY2srtKfu26OohrHxU6JUSNFUGqDuLjRX'
     )
-print(json.dumps(binance.get_allPrices(), indent = 2))
-print(json.dumps(binance.ws_depth(symbol='eoseth')))
 
+getpricex = json.dumps(binance.get_allPrices())
+getpricexx = json.loads(getpricex)
+for N in getpricexx:
+    print(N['symbol'],'binance',N['price'])
+    updateMysql(N['symbol'],'binance',N['price'])
+    #updateMysql(N['symbol'],'binance',N['price'],0,0,0,0,0)
 #print(json.dumps(binance.get_balance(asset='asset'), indent = 2))
 
 

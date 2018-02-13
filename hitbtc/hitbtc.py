@@ -14,6 +14,10 @@ class Client(object):
         """Get symbol."""
         return self.session.get("%s/public/symbol/%s" % (self.url, symbol_code)).json()
 
+    def get_ticker(self, symbol_code):
+        """Get ticker."""
+        return self.session.get("%s/public/ticker/%s" % (self.url, symbol_code)).json()
+
     def get_orderbook(self, symbol_code):
         """Get orderbook. """
         return self.session.get("%s/public/orderbook/%s" % (self.url, symbol_code)).json()
@@ -70,14 +74,14 @@ class Client(object):
 
 
 if __name__ == "__main__":
-    public_key = "ff20f250a7b3a414781d1abe11cd8cee"
-    secret = "fb453577d11294359058a9ae13c94713"
+    public_key = "3fd7a415ba38bb22f409bc6955880832"
+    secret = "3fd7a415ba38bb22f409bc6955880832"
 
-    btc_address = "1ANJ18KJiL55adwzvNhRimnQcShR4iMvCe"
+    btc_address = "x"
 
     client = Client("https://api.hitbtc.com", public_key, secret)
 
-    eth_btc = client.get_symbol('ETHBTC')
+    eth_btc = client.get_ticker('ETHBTC')
     address = client.get_address('ETH')     # get eth address for deposit
 
     print('ETH deposit address: "%s"' % address)
